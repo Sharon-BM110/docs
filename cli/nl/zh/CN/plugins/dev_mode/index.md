@@ -123,7 +123,8 @@ cf mode <appName> <dev|normal>
 ## status
 {: #status}
 
-显示应用程序方式和运行时状态。```
+显示应用程序方式和运行时状态。
+```
 cf status <appName>
 ```
 
